@@ -1,4 +1,5 @@
 // includes
+#include <algorithm>
 #include <unordered_set>
 #include "NeuralNetwork.hpp"
 #include "Trace.hpp"
